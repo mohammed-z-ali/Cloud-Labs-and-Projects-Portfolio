@@ -14,3 +14,12 @@ Each lab demonstrates real-world hybrid identity, migration, and management scen
 | 03 | **Intune Autopilot Enrollment** | Set up hybrid Intune Autopilot and automatic device enrollment for domain-joined Windows clients. |
 | 04 | **On-Prem Exchange to Exchange Online Migration** | Deploy Exchange Server on AWS, configure SPF/DKIM/DMARC, and migrate mailboxes to Exchange Online in Azure. |
 | 05 | **Nimble Backup to Azure** | Integrate HPE Nimble Storage backups with Azure Blob Storage for cloud disaster recovery. |
+
+
+
++------------------------+ +-----------------------+
+| AWS EC2 (Exchange) | | Azure Cloud |
+| - Exchange 2019 | | - Entra ID (AAD) |
+| - AD DS Domain Join | <----> | - Exchange Online |
+| - Mail Flow Outbound | VPN/HCW | - Azure AD Connect |
++------------------------+ +-----------------------+
