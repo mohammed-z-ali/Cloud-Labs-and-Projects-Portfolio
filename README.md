@@ -1,1 +1,4 @@
-WELCOME TO MY AZURE-PROJECTS FOLDER. IN THIS FOLDER, YOU WILL BE ABLE TO SEE WHAT PROJECTS I HAVE WORKD ON AND WHAT I HAVE DONE SO FAR WITH AZURE CLOUD.
+# Azure Labs and Projects
+
+This repository contains hands-on **Azure, Security, and Hybrid Infrastructure labs** that demonstrate real-world design and implementation scenarios.  
+Each lab includes step-by-step deployment instructions, PowerShell/CLI scripts, and architecture diagrams.
