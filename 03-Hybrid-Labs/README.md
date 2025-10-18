@@ -16,10 +16,3 @@ Each lab demonstrates real-world hybrid identity, migration, and management scen
 | 05 | **Nimble Backup to Azure** | Integrate HPE Nimble Storage backups with Azure Blob Storage for cloud disaster recovery. |
 
 
-
-+------------------------+ +-----------------------+
-| AWS EC2 (Exchange) | | Azure Cloud |
-| - Exchange 2019 | | - Entra ID (AAD) |
-| - AD DS Domain Join | <----> | - Exchange Online |
-| - Mail Flow Outbound | VPN/HCW | - Azure AD Connect |
-+------------------------+ +-----------------------+
