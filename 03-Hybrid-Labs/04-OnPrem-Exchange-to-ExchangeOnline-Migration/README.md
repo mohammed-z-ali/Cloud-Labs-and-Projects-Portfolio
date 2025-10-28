@@ -50,12 +50,12 @@ To resolve this, the following steps were taken:
 ## SSL Configuration
 ### Certificate Import
 ```powershell
-Import-ExchangeCertificate -FileData ([Byte[]](Get-Content -Path "C:\Users\Administrator\Desktop\cloudwithmilu.com_cert\mail_cloudwithmilu_com_fixed.pfx" -Encoding byte -ReadCount 0)) -Password (ConvertTo-SecureString -String "Milu123!" -AsPlainText -Force)
+Import-ExchangeCertificate -FileData ([Byte[]](Get-Content -Path "C:\Users\Administrator\Desktop\cloudwithmilu.com_cert\mail_cloudwithmilu_com_fixed.pfx" -Encoding byte -ReadCount 0)) -Password (ConvertTo-SecureString -String "XXXX" -AsPlainText -Force)
 ```
 
 ### Enable Certificate for All Services
 ```powershell
-Enable-ExchangeCertificate -Thumbprint 69AAD21578B43CC4E001C1C3FB142CFFA2A6ADA8 -Services IIS,SMTP -Force
+Enable-ExchangeCertificate -Thumbprint 69AAD21578B43CC4E001C1C3FB142CXXXXXXXX -Services IIS,SMTP -Force
 iisreset /noforce
 Restart-Service MSExchangeTransport
 Restart-Service MSExchangeFrontEndTransport
