@@ -104,8 +104,10 @@ systemreset -factoryreset
 
 ## Accomplishments
 
-Successfully: - Built a complete hybrid identity environment -
-Integrated Autopilot with Intune & AD - Achieved fully automated hybrid
-domain join - Implemented a Zero‑Touch deployment model - Applied
-enterprise security controls (BitLocker) - Demonstrated end‑to‑end
-device lifecycle onboarding
+Successfully: 
+- Built a complete hybrid identity environment
+- Integrated Autopilot with Intune & AD
+- Achieved fully automated hybrid domain join
+- Implemented a Zero‑Touch deployment model
+- Applied enterprise security controls (BitLocker)
+- Demonstrated end‑to‑end device lifecycle onboarding
