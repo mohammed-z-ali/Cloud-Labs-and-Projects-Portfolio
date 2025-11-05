@@ -65,12 +65,12 @@ BitLocker during Autopilot setup with zero‑touch provisioning.
 ### Validation Steps
 
   Check                            Result
-  -------------------------------- -----------------------
-  Device object created in AD      ✅ `OU=LabComputers`
-  Device appears in Intune         ✅
-  Hybrid Azure AD Join confirmed   `dsregcmd /status` ✅
-  BitLocker enabled                ✅
-  Recovery key stored in Entra     ✅
+  -------------------------------- | -----------------------
+  Device object created in AD      | ✅ `OU=LabComputers`
+  Device appears in Intune         | ✅
+  Hybrid Azure AD Join confirmed   | `dsregcmd /status` ✅
+  BitLocker enabled                | ✅
+  Recovery key stored in Entra     | ✅
 
 ## Commands Used
 
