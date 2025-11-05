@@ -64,7 +64,7 @@ BitLocker during Autopilot setup with zero‑touch provisioning.
 
 ### Validation Steps
 
-  Check                            Result
+  Check                            | Result
   -------------------------------- | -----------------------
   Device object created in AD      | ✅ `OU=LabComputers`
   Device appears in Intune         | ✅
