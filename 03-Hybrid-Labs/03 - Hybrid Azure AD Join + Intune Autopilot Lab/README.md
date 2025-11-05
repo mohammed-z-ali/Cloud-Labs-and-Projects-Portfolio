@@ -7,7 +7,7 @@ devices are automatically enrolled into Intune, hybrid joined to on‑prem
 Active Directory and Entra ID, and receive security policies such as
 BitLocker during Autopilot setup with zero‑touch provisioning.
 
-## 🎯 Objectives
+## Objectives
 
 -   Deploy Hybrid Azure AD Autopilot
 -   Automatically enroll device into Intune
@@ -19,14 +19,14 @@ BitLocker during Autopilot setup with zero‑touch provisioning.
 
 ## Tools & Services Used
 
-  Category                 Tools
-  ------------------------ ---------------------------------------------
-  Identity & Device Mgmt   Intune, Entra ID Hybrid Join
-  On‑prem Infrastructure   Windows Server AD DS, DNS, Intune Connector
-  Networking               Azure VM + Hyper‑V nested VM
-  Deployment               Windows Autopilot (User‑Driven Hybrid)
-  Security                 BitLocker (XTS‑AES256 + Key Escrow)
-  Validation               dsregcmd, Intune portal, ADUC
+  Category                 | Tools
+  ------------------------ | ---------------------------------------------
+  Identity & Device Mgmt   | Intune, Entra ID Hybrid Join
+  On‑prem Infrastructure   | Windows Server AD DS, DNS, Intune Connector
+  Networking               | Azure VM + Hyper‑V nested VM
+  Deployment               | Windows Autopilot (User‑Driven Hybrid)
+  Security                 | BitLocker (XTS‑AES256 + Key Escrow)
+  Validation               | dsregcmd, Intune portal, ADUC
 
 ## What We Performed (Step‑By‑Step)
 
