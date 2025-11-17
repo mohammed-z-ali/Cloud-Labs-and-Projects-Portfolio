@@ -164,7 +164,7 @@ Demonstrate full DR capability and validate restore readiness.
 
 ---
 
-# What We Accomplished
+# What I Accomplished
 - Constructed a SAN-like storage backend using Windows Server.  
 - Provisioned a file server consuming centralized block storage.  
 - Implemented cloud backups using MSP360 and Azure.  
@@ -173,7 +173,7 @@ Demonstrate full DR capability and validate restore readiness.
 
 ---
 
-# What We Learned
+# What I Learned
 - How SAN/iSCSI architecture works in practice.  
 - How file servers consume remote block storage.  
 - How backup servers orchestrate cloud backups.  
