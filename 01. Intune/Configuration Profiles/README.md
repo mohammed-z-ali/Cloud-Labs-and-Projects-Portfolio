@@ -1,1 +1,1 @@
-##This folder contains all the labs regarding **Configuration Profiles**.
+## This folder contains all the labs regarding **Configuration Profiles**.
