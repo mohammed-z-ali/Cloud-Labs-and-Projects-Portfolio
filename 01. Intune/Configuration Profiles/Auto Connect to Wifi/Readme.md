@@ -31,7 +31,7 @@ In this phase, I configured a policy to connect managed devices to a private net
 To confirm the policy was effective, I performed a live test using an enrolled BYOD laptop:
 - **Scenario:** The device was brought within range of the home Wi-Fi after the policy was synced.
 - **Result:** ✅ **Success.** The device identified the SSID and auto-connected immediately.
-- **Evidence:** The Wi-Fi settings on the device displayed the "Managed by your organization" status, and no manual password entry was required.
+- **Evidence:** The Wi-Fi settings on the device displayed the "Managed by your organization" status, and no manual password entry was required. (View [Screenshots](./Screenshots/)).
 
 ---
 
