@@ -31,7 +31,7 @@ To ensure the policy was applied successfully, the following tests were performe
 
 ### 1. Intune Portal Confirmation
 Verified that the device status shows "Succeeded" for the `Time Settings (EST 5:00) - Corp Win Device` profile.
-![Intune Success Screenshot](./screenshots/x.png)
+![Intune Success Screenshot](./Screenshots/Intune_Success.png)
 
 ### 2. Device Sync & Registry Check
 On the test machine, a manual sync was performed via **Settings > Accounts > Access work or school**. 
