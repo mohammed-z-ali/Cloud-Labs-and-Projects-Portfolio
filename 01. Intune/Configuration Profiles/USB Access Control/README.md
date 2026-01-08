@@ -58,3 +58,12 @@ Configuration Profiles work by sending instructions to the device's Operating Sy
 
 ## 5. Conclusion
 This is a **Zero Trust** model regarding physical hardware. Using the Settings Catalog provides the most granular control over how data moves in and out of the corporate ecosystem.
+
+
+## 6. Verification
+![Intune Success](./Screenshots/Intune_Success.png)
+![Policies Applied in Settings](./Screenshots/PoliciesApplied_Settings.png)
+![Access Denied](./Screenshots/AccessDenied.png)
+![Diagram](./Screenshots/Diagram.png)
+
+
