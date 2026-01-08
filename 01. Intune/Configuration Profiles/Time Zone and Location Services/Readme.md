@@ -33,12 +33,12 @@ To ensure the policy was applied successfully, the following tests were performe
 Verified that the device status shows "Succeeded" for the `Time Settings (EST 5:00) - Corp Win Device` profile.
 ![Intune Success Screenshot](./Screenshots/Intune_Success.png)
 
-### 2. Device Sync & Registry Check
+### 2. Device Sync & Policies Applied
 On the test machine, a manual sync was performed via **Settings > Accounts > Access work or school**. 
-- **Registry Key Verified:** `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\current\device\TimeLanguageSettings\ConfigureTimeZone`
-- **Value:** `Eastern Standard Time`
-![Registry Verification](./screenshots/x.png)
+- **Policy Applied Verified:** 
+![Registry Verification](./screenshots/PoliciesApplied_Settings.png)
 
-### 3. User Interface Verification
-The "Set time zone automatically" and "Location services" toggles are now active, and the "Admin needed" restriction has been removed for the time clock.
-![Windows Settings Screenshot](./screenshots/x.png)
+### 3. Time Zone Verification
+The "Time Zone" automatically updated, and "Location services" toggles are now disabled, and the "Admin needed" restriction has been activated for the time clock.
+![Time Zone Settings](./screenshots/TimeZone_Settings.png)
+![Location Services Settings](./screenshots/PrivacySettings.png)
