@@ -36,9 +36,13 @@ Verified that the device status shows "Succeeded" for the `Time Settings (EST 5:
 ### 2. Device Sync & Policies Applied
 On the test machine, a manual sync was performed via **Settings > Accounts > Access work or school**. 
 - **Policy Applied Verified:** 
-![Registry Verification](./screenshots/PoliciesApplied_Settings.png)
+![Registry Verification](./Screenshots/PoliciesApplied_Settings.png)
 
 ### 3. Time Zone Verification
 The "Time Zone" automatically updated, and "Location services" toggles are now disabled, and the "Admin needed" restriction has been activated for the time clock.
-![Time Zone Settings](./screenshots/TimeZone_Settings.png)
-![Location Services Settings](./screenshots/PrivacySettings.png)
+![Time Zone Settings](./Screenshots/TimeZone_Settings.png)
+![Location Services Settings](./Screenshots/PrivacySettings.png)
+
+### 4. Diagram
+This is the chart diagram
+![Chart Diagram](./Screenshots/Diagram.png)
