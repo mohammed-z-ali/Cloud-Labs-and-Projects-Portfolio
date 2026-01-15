@@ -19,7 +19,7 @@ The goal was to standardize the visual identity of company-owned assets. By leve
 ### 1. GitHub Hosting
 * Created a public repository.
 * Uploaded the corporate image file.
-* Obtained the raw link (e.g., `[https://raw.githubusercontent.com/...](https://raw.githubusercontent.com/mohammed-z-ali/Cloud-Labs-and-Projects-Portfolio/refs/heads/main/01.%20Intune/Configuration%20Profiles/Wallpaper/Github%20Wallpaper/CWM%20Wallpaper.jpg)`).
+* Obtained the raw link (`(https://raw.githubusercontent.com/mohammed-z-ali/Cloud-Labs-and-Projects-Portfolio/refs/heads/main/01.%20Intune/Configuration%20Profiles/Wallpaper/Github%20Wallpaper/CWM%20Wallpaper.jpg)`).
 
 ### 2. Intune Configuration
 * **Path:** `Devices` > `Configuration` > `Create` > `New Policy`.
