@@ -55,7 +55,7 @@ The goal was to provide a seamless "click-and-print" experience for employees on
 ![Sharing Screenshot](./Screenshots/Universal-Print-Connector.png)
 
 ### Intune: Configuration Profile Settings
-![Intune Settings Screenshot](./Printer-Config-Policy-Status-on-Intune.png)
+![Intune Settings Screenshot](./Screenshots/Printer-Config-Policy-Status-on-Intune.png)
 
 ### Successful End-User Installation
-![Success Screenshot](./Printer-Mapped-Success-on-Device.png)
+![Success Screenshot](./Screenshots/Printer-Mapped-Success-on-Device.png)
