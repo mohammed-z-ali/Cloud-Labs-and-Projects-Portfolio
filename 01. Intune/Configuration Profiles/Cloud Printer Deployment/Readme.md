@@ -49,16 +49,13 @@ The goal was to provide a seamless "click-and-print" experience for employees on
 ## Implementation Gallery
 
 ### Azure Portal: Printer Registration
-![Registration Screenshot](./Screenshots/Shared Printer Status on Azure Portal.png)
+![Registration Screenshot](./Screenshots/Shared-Printer-Status-on-Azure-Portal.png)
 
 ### Universal Print: Printer Share Details
-![Sharing Screenshot]
+![Sharing Screenshot](./Screenshots/Universal-Print-Connector.png)
 
 ### Intune: Configuration Profile Settings
-![Intune Settings Screenshot]
-
-### Intune: Assignment & Filters
-![Filters Screenshot]
+![Intune Settings Screenshot](./Printer-Config-Policy-Status-on-Intune.png)
 
 ### Successful End-User Installation
-![Success Screenshot]
+![Success Screenshot](./Printer-Mapped-Success-on-Device.png)
