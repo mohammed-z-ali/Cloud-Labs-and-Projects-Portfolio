@@ -23,5 +23,6 @@ During this lab, we identified and resolved several critical encryption hurdles:
 ## 4. Verification of Success
 The deployment was verified by checking the device properties in the Intune Portal. The screenshot below confirms that the **48-digit Recovery Key** has been successfully escrowed to Microsoft Entra ID.
 
-[BitLocker Success Screenshot](./Screenshots/BitLocker Key in Recovery Key tab.png)
+![BitLocker Success Screenshot](./Screenshots/BitLocker Key in Recovery Key tab.png)
+
 
