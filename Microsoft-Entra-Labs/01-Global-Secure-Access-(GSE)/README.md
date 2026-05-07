@@ -43,7 +43,7 @@ Microsoft Entra Global Secure Access (SSE Cloud)
 | Microsoft Entra ID (P1) | Identity platform & Conditional Access |
 | Microsoft Entra Global Secure Access | SSE / SASE platform |
 | Microsoft Entra Internet Access | Secure Web Gateway / Web Filtering |
-| Microsoft Entra Private Access | ZTNA / VPN Replacement |
+| Microsoft Entra Private Access | VPN Replacement |
 | Microsoft Azure | Hosted VM as private resource |
 | Windows 11 (Entra Joined) | Client device for testing |
 | Azure Virtual Machine (Windows Server 2022) | Private network connector host |
@@ -158,7 +158,7 @@ The following screenshots are included in the `/evidence` folder of this reposit
 ```
 📦 entra-global-secure-access-lab
  ┣ 📂 evidence
- ┃ ┣ 📸 01-gsa-activated.png
+ ┃ ┣ [![GSA Activated](evidence/01-gsa-activated.png)](evidence/01-gsa-activated.png)
  ┃ ┣ 📸 02-traffic-profiles-enabled.png
  ┃ ┣ 📸 03-gsa-client-connected.png
  ┃ ┣ 📸 04-web-filtering-policy.png
