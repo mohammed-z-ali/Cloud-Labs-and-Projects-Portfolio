@@ -168,7 +168,7 @@ The following screenshots are included in the `/evidence` folder of this reposit
  ┃ ┣ 📸 08-connector-active.png
  ┃ ┣ 📸 09-private-app-config.png
  ┃ ┣ 📸 10-rdp-connected-private-ip.png
- ┃ ┣ 📸 11-rdp-failed-gsa-disabled.png
+ ┃ ┣ 📸 11-rdp-failed-gsa-disabled.mp4
  ┃ ┗ 📸 12-traffic-logs.png
  ┣ 📄 README.md
 ```
