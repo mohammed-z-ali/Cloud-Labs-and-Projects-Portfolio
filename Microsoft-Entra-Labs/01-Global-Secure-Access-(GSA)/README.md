@@ -178,67 +178,67 @@ The following screenshots are included in the `/evidence` folder of this reposit
 ## Evidence & Proof of Work
 
 ### 1️⃣ GSA Dashboard Activated
-[![GSA Activated](evidence/01-gsa-activated.png)](evidence/01-gsa-activated.png)
+[![GSA Activated](./Evidence/01-gsa-activated.png)](./Evidence/01-gsa-activated.png)
 *GSA dashboard activated with Connect, Applications, Secure, Monitor menus*
 
 ---
 
 ### 2-Traffic Forwarding Profile Enabled
-[![Traffic Profiles](evidence/02-traffic-profiles-enabled.png)](evidence/02-traffic-profiles-enabled.png)
+[![Traffic Profiles](./Evidence/02-traffic-profiles-enabled.png)](./Evidence/02-traffic-profiles-enabled.png)
 *All 3 traffic forwarding profiles enabled — Microsoft 365, Internet Access, Private Access*
 
 ---
 
 ### 3️⃣ GSA Client Connected
-[![GSA Client](evidence/03-gsa-client-connected.png)](evidence/03-gsa-client-connected.png)
+[![GSA Client](./Evidence/03-gsa-client-connected.png)](./Evidence/03-gsa-client-connected.png)
 *GSA client showing green/Connected status with all channels active*
 
 ---
 
 ### 4️⃣ Web Content Filtering Policy
-[![Web Filtering](evidence/04-web-filtering-policy.png)](evidence/04-web-filtering-policy.png)
+[![Web Filtering](./Evidence/04-web-filtering-policy.png)](./Evidence/04-web-filtering-policy.png)
 *Block - Social Media policy with category and wildcard FQDN rules*
 
 ---
 
 ### 5️⃣ Security Profile Linked to Policy
-[![Security Profile](evidence/05-security-profile.png)](evidence/05-security-profile.png)
+[![Security Profile](./Evidence/05-security-profile.png)](./Evidence/05-security-profile.png)
 *Security profile linked to filtering policy with block action enabled*
 
 ---
 
 ### 6️⃣ Conditional Access Policy — Internet Access
-[![CA Policy](evidence/06-ca-policy-internet.png)](evidence/06-ca-policy-internet.png)
+[![CA Policy](./Evidence/06-ca-policy-internet.png)](./Evidence/06-ca-policy-internet.png)
 *CA policy for Internet Access with Session control enforcing Security Profile*
 
 ---
 
 ### 7️⃣ Sites Successfully Blocked
-[![Sites Blocked](evidence/07-sites-blocked.png)](evidence/07-sites-blocked.png)
+[![Sites Blocked](./Evidence/07-sites-blocked.png)](./Evidence/07-sites-blocked.png)
 *Browser showing blocked pages for facebook.com / youtube.com*
 
 ---
 
 ### 8️⃣ Private Network Connector Active
-[![Connector Active](evidence/08-connector-active.png)](evidence/08-connector-active.png)
+[![Connector Active](./Evidence/08-connector-active.png)](./Evidence/08-connector-active.png)
 *Private Network Connector showing Active status in Entra portal*
 
 ---
 
 ### 9️⃣ Private App Configuration
-[![Private App](evidence/09-private-app-config.png)](evidence/09-private-app-config.png)
+[![Private App](./Evidence/09-private-app-config.png)](./Evidence/09-private-app-config.png)
 *Enterprise app configured with VM private IP and port 3389 (RDP/TCP)*
 
 ---
 
 ### 🔟 RDP Connected via Private IP Through GSA Tunnel
-[![RDP Connected](evidence/10-rdp-connected-private-ip.png)](evidence/10-rdp-connected-private-ip.png)
+[![RDP Connected](./Evidence/10-rdp-connected-private-ip.png)](./Evidence/10-rdp-connected-private-ip.png)
 *RDP session connected to VM via private IP — VPN replacement working*
 
 ---
 
 ### 1️⃣1️⃣ RDP Failed When GSA Disabled
-[![RDP Failed](evidence/11-rdp-failed-gsa-disabled.mp4)](evidence/11-rdp-failed-gsa-disabled.mp4)
+[![RDP Failed](./Evidence/11-rdp-failed-gsa-disabled.mp4)](./Evidence/11-rdp-failed-gsa-disabled.mp4)
 *RDP connection failed when GSA client was disabled — proves tunnel dependency*
 
 ---
