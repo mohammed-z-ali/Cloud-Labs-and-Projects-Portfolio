@@ -244,7 +244,7 @@ The following screenshots are included in the `/evidence` folder of this reposit
 ---
 
 ### 1️⃣2️⃣ Traffic Logs — Full Visibility
-[![Traffic Logs](evidence/12-traffic-logs.png)](evidence/12-traffic-logs.png)
+[![Traffic Logs](./Evidence/12-traffic-logs.png)](./Evidence/12-traffic-logs.png)
 *Traffic logs showing user, device, IP address, geographic location, destination, and enforcement action*
 
 
