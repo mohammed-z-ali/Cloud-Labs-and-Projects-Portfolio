@@ -237,7 +237,7 @@ The following screenshots are included in the `/evidence` folder of this reposit
 
 ---
 
-### 1️⃣1️⃣ RDP Failed When GSA Disabled
+### 1️⃣1️⃣ RDP Failed When GSA Disabled (Video) - *May not load due to the file size*
 [![RDP Failed](./Evidence/11-rdp-failed-gsa-disabled.mp4)](./Evidence/11-rdp-failed-gsa-disabled.mp4)
 *RDP connection failed when GSA client was disabled — proves tunnel dependency*
 
