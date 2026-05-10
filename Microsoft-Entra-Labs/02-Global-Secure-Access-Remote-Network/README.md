@@ -185,7 +185,7 @@ For Cloud Engineer / Cloud Administrator roles:
 
 - ✅ Microsoft Entra Global Secure Access architecture
 - ✅ Site-to-site IPsec design (IKEv2, PSK)
-- ✅ eBGP over IPsec
+- ✅ BGP over IPsec
 - ✅ Identity-based network segmentation
 - ✅ Conditional Access policy design
 - ✅ Palo Alto Networks integration
