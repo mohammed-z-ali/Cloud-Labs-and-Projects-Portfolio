@@ -168,14 +168,13 @@ These are the configuration steps that would be performed on the Palo Alto firew
 ```
 📦 02-Remote-Networks
  ┣ 📂 images
- ┃ ┣ 📸 01-traffic-flow.png                ← Architecture
+ ┃ ┣ 📸 01-traffic-flow.png                 ← Architecture
  ┃ ┣ 📸 02-bgp-ipsec.png                    ← Architecture
  ┃ ┣ 📸 03-segmentation-flow.png            ← Architecture
  ┃ ┣ 📸 04-concept-client-vs-remote.png     ← Concept
  ┃ ┣ 📸 05-concept-component-hierarchy.png  ← Concept
  ┃ ┗ 📸 06-concept-terminology.png          ← Concept
  ┣ 📄 README.md
- ┗ 📄 REFERENCE-NOTES.md
 ```
 
 ---
